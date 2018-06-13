@@ -1,0 +1,5 @@
+preg plas pres skin insu mass pedi age class
+(plas >= 132) and (mass >= 30) => class=tested_positive1 (182.0/48.0)
+(age >= 29) and (insu >= 125) and (preg <= 3) => class=tested_positive2 (19.0/4.0)
+(age >= 31) and (pedi >= 0.529) and (preg >= 8) and (mass >= 25.9) => class=tested_positive3 (22.0/5.0)
+=> class=tested_negative (545.0/102.0)
